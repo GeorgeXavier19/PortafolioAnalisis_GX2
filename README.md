@@ -3,11 +3,9 @@
 ## Carpeta Raíz
 - **README.md**: Descripción general del contenido y la estructura del repositorio.
 
-## Carpeta "retro"
-- **Módulo 1: Estadística (SMA0101A)**
-  
-- **Módulo 2: Machine Learning (SMA0401A)**
+## Carpeta "RETRO"
+- Momento de Retroalimentación: Reto Privacidad y Seguridad de los Datos (Portafolio Análisis): -pdf
 
 
-## Carpeta "final"
+## Carpeta "FINAL"
 
